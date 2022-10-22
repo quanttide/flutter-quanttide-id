@@ -1,1 +1,1 @@
-# 量潮用户鉴权平台Flutter客户端SDK
+# 量潮IdAM云Flutter客户端SDK
