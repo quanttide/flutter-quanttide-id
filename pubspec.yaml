@@ -1,5 +1,5 @@
-name: qtuser_widgets
-description: 量潮用户鉴权平台Flutter客户端组件库
+name: flutter_qtcloud_idam
+description: 量潮IdAM云Flutter客户端SDK
 version: 0.1.0-alpha.1
 
 environment:
@@ -9,7 +9,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_login: ^4.0.0
 
 dev_dependencies:
   flutter_test:
