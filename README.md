@@ -1,1 +1,1 @@
-# 量潮IdAM云Flutter客户端SDK
+# 量潮数字身份Flutter客户端
